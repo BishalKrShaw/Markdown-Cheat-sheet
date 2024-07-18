@@ -186,7 +186,7 @@ Use "- " dash sign and space to make unodered list
 
 **Syntax:** `[Name you want to display](website link "Text you want to display when hover")`
 
-**Example:** `[React](https://react.dev/ "Text to display")`
+**Example:** `[React](https://react.dev/ "This is react site")`
 
 **Output:** [React](https://react.dev/ "This is react site")
 
@@ -214,7 +214,7 @@ Same as link
 
 **Syntax:** `![Alt text](image link or directory path "Text to display")`
 
-**Example:** `![React](https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256 "React image")`
+**Example:** `![React](https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256 "React Image is displaying")`
 
 **Output:**
  ![React Image](https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256 "React Image is displaying")
