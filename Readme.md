@@ -305,5 +305,10 @@ print(name);
 
 ***
 
+#### NOTE
+Sometimes when you write md code, in some cases your code won't work on your system but it will work on Github. So to make your code work on your system same as Github then you have to install some extension to make it possible. I use extension named **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)** but you can choose any extension you like.
+
+---
+
 **Congratulation👍🎉 You have learnt how to make Markdown.**
 **This is Bishal, signing off.**
